@@ -1,0 +1,23 @@
+{
+  "name": "jest-test-practise",
+  "version": "1.0.0",
+  "description": "In this repo, I added some codes for function and applied some tests using Jest.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ali-0111/Jest-Test-Practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ali-0111/Jest-Test-Practise/issues"
+  },
+  "homepage": "https://github.com/Ali-0111/Jest-Test-Practise#readme",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
